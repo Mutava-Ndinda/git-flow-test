@@ -5,7 +5,7 @@
     grid-template-columns: 50%50%;
     margin: 60px 70px;
 }
-button{
+.down{
     color: white;
     background-color: blue;
     border-radius: 24px;
@@ -29,4 +29,27 @@ p{
 }
 #box{
     margin-left: 35%;
+}
+.navbar{
+    margin-left: 20%;
+    margin-top: 4%;
+   font-size: 100%;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.nav2{
+    width: 10%;
+}
+#requ{
+    color:white;
+    float: right;
+    margin-top: -3%;
+    width: 9%;
+    height: 18px;
+    border-radius: 31px;
+    padding: 16px 16px 28px 16px;
+    margin-right: 25%;
+    text-align: center;
+    overflow: hidden;
+    background-color:blue ;
 }
